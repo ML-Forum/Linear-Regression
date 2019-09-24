@@ -1,4 +1,4 @@
-# This is the basic theory and sample code for linear regression
+# This repo includes the basic theory and sample code for linear regression
 
 #### This code takes a toy dataset and applies linear regression both manually and using libraries 
 
